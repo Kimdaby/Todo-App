@@ -2,7 +2,7 @@
 
 Todo app that was created with HTML/CSS and JavaScript
 
-### Create your own to-do list
+### Create your own to-do list [here](https://kimdaby.github.io/Todo-App/)
 
 ![todo](todo.png)
 
