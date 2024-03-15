@@ -32,7 +32,7 @@ button {
     font-size: small;
     padding: 5px 20px;
     border: none;
-    width: 20dvh;
+    min-width: 135px;
     border-style: solid;
     border-color: #4b86b4;
     font-weight: bold;
@@ -41,6 +41,7 @@ button {
 
 button:hover {
     background-color: #4b86b4;
+    cursor: pointer;
 }
 
 .submitList {
